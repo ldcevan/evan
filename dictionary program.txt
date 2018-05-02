@@ -1,0 +1,13 @@
+baseball_terms = {
+    'strike zone': " the volume of space through which a pitch must pass in order to count as a strike, if the batter does not swing.",
+    
+    'being safe': " a baserunner is safe when he reaches a base without being put out by various ways. While a runner is touching a base, he is usually not in jeopardy of being put out, and is thus being safe from fielders actions.",
+    
+    'being out': "an out occurs when the umpire rules a batter or baserunner out. When three outs are recorded in an inning, a team's half of the inning, or their turn at batting, ends."
+    
+    'hit': "a base hit, is credited to a batter when the batter safely reaches first base after hitting the ball into fair territory, without the benefit of an error or a fielders choice."'
+    
+    'balk': "a pitcher can commit a number of illegal motions or actions that constitute a balk. Most of these violations involve a pitcher pretending to pitch when he has no intention of doing so. In games played under the Official Baseball Rules, a balk results in a dead ball or delayed dead ball."
+    
+    'perfect game': "a game in which a pitcher (or combination of pitchers) pitches a victory that lasts a minimum of nine innings and in which no opposing player reaches a base.",
+    }
